@@ -4,5 +4,5 @@ require('views/partials/nav.partial.php');
 ?>
 
 
-<?php require('dashboard.partial.php'); ?>
+<?php require('views/partials/dashboard.partial.php'); ?>
 <?php require('views/partials/footer.partial.php'); ?>
